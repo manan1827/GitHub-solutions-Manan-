@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/manan1827/GitHub-solutions-Manan-/tree/master/0859-design-circular-deque) |
 | [1002-maximum-width-ramp](https://github.com/manan1827/GitHub-solutions-Manan-/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/manan1827/GitHub-solutions-Manan-/tree/master/1256-rank-transform-of-an-array) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/manan1827/GitHub-solutions-Manan-/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/manan1827/GitHub-solutions-Manan-/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/manan1827/GitHub-solutions-Manan-/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/manan1827/GitHub-solutions-Manan-/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/manan1827/GitHub-solutions-Manan-/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2411-spiral-matrix-iv](https://github.com/manan1827/GitHub-solutions-Manan-/tree/master/2411-spiral-matrix-iv) |
 ## Simulation
 |  |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/manan1827/GitHub-solutions-Manan-/tree/master/0241-different-ways-to-add-parentheses) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/manan1827/GitHub-solutions-Manan-/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Recursion
 |  |
 | ------- |
