@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/manan1827/GitHub-solutions-Manan-/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/manan1827/GitHub-solutions-Manan-/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/manan1827/GitHub-solutions-Manan-/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2716-prime-subtraction-operation](https://github.com/manan1827/GitHub-solutions-Manan-/tree/master/2716-prime-subtraction-operation) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/manan1827/GitHub-solutions-Manan-/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/manan1827/GitHub-solutions-Manan-/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/manan1827/GitHub-solutions-Manan-/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -63,10 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/manan1827/GitHub-solutions-Manan-/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/manan1827/GitHub-solutions-Manan-/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/manan1827/GitHub-solutions-Manan-/tree/master/0670-maximum-swap) |
+| [2716-prime-subtraction-operation](https://github.com/manan1827/GitHub-solutions-Manan-/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/manan1827/GitHub-solutions-Manan-/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
 |  |
 | ------- |
+| [2716-prime-subtraction-operation](https://github.com/manan1827/GitHub-solutions-Manan-/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/manan1827/GitHub-solutions-Manan-/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Bit Manipulation
 |  |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/manan1827/GitHub-solutions-Manan-/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/manan1827/GitHub-solutions-Manan-/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/manan1827/GitHub-solutions-Manan-/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2716-prime-subtraction-operation](https://github.com/manan1827/GitHub-solutions-Manan-/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/manan1827/GitHub-solutions-Manan-/tree/master/3195-separate-black-and-white-balls) |
 ## Dynamic Programming
 |  |
@@ -228,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/manan1827/GitHub-solutions-Manan-/tree/master/0731-my-calendar-ii) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/manan1827/GitHub-solutions-Manan-/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/manan1827/GitHub-solutions-Manan-/tree/master/2586-longest-square-streak-in-an-array) |
+| [2716-prime-subtraction-operation](https://github.com/manan1827/GitHub-solutions-Manan-/tree/master/2716-prime-subtraction-operation) |
 ## Design
 |  |
 | ------- |
